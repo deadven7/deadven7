@@ -1,8 +1,7 @@
-# Hi, I am DeadVen7
+# Data Science Enthusiast, Fullstack Web Developer
 
-## I am a Data Science Enthusiast and a Fullstack Web Developer
+## I love coming up with creative and inventive ways to solve problems and perform tasks
 
-### I love coming up with creative and ingenuous ways to solve problems and perform tasks.
 ### This profile contains all my projects within the fields of data science and web development. 
 
 <!---
