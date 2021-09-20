@@ -30,9 +30,14 @@
 <a target="_blank" href="https://amaanvora.com/">
 
 
-  ### This section displays my Github stats
+### This section displays my Github stats
 [![Amaan's github stats](https://github-readme-stats.vercel.app/api?username=deadven7&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/deadven7/github-readme-stats)
-  
+
+#### Find me here - 
+* #### [Github](https://github.com/deadven7) 
+* #### [Kaggle](https://www.kaggle.com/amaanvora) 
+* #### [LinkedIn](https://www.linkedin.com/in/amaan-vora/) 
+
 <!---
 deadven7/deadven7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
