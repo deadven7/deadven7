@@ -36,7 +36,8 @@
 #### Find me here - 
 * #### [Github](https://github.com/deadven7) 
 * #### [Kaggle](https://www.kaggle.com/amaanvora) 
-* #### [LinkedIn](https://www.linkedin.com/in/amaan-vora/) 
+* #### [LinkedIn](https://www.linkedin.com/in/amaan-vora/)
+* #### [Website](https://amaanvora.com/)
 
 <!---
 deadven7/deadven7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
