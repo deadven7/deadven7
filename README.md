@@ -1,10 +1,10 @@
-# Data Science Enthusiast, Fullstack Web Developer
+# Data Science Aspirant
 
 # View my [portfolio](https://amaanvora.com/)
 
 ## I love coming up with creative and inventive ways to solve problems and perform tasks
 
-#### I am a 21 year old Indian, pursuing a degree in Computer Science and Engineering.
+#### I am a 23 year old Masters student from Rutgers University, pursuing a degree in Statistics (Data Science).
 #### Fascinated by the world of Data Science and all its sub-fields, I have created various projects to expand my theoretical and practical knowledge about the field.
 #### The projects explore the following Data Science related topics - 
 * ##### Data Analysis
@@ -28,10 +28,6 @@
 ### Here is a list of my top languages as filtered by Github Stats. Jupyter notebooks are created using Python, unless specified otherwise. 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deadven7)](https://github.com/deadven7/github-readme-stats)
 <a target="_blank" href="https://amaanvora.com/">
-
-
-### This section displays my Github stats
-[![Amaan's github stats](https://github-readme-stats.vercel.app/api?username=deadven7&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/deadven7/github-readme-stats)
 
 #### Find me here - 
 * #### [Github](https://github.com/deadven7) 
